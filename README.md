@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Let's go!!!
+
 ![gif from nerdy.dev](https://media.giphy.com/media/nGzeO4uSxRUcg/source.gif)
 
 Here are some ideas to get you started:
